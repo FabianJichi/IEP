@@ -12,5 +12,7 @@ add_executable(${PROJECT_NAME}
                 main.cpp
                 Vegetable.hpp
                 Purchase.hpp
+                Tomato.hpp
                 Vegetable.cpp
-                Purchase.cpp)
+                Purchase.cpp
+                Tomato.cpp)
